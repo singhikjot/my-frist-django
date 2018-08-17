@@ -1,0 +1,5 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: update-notifier-crash (/var/crash/_usr_bin_unity-scope-loader.1000.crash) main process (12810) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_share_apport_apport-gtk.1000.crash) main process (12822) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_share_apport_apport-gtk.1000.crash) main process (23767) terminated with status 1

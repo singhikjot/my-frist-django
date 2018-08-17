@@ -1,0 +1,513 @@
+[Parent 1981, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 1981, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 2515, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+ExceptionHandler::GenerateDump cloned child 8900
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+WARN  2018-08-17 03:15:31 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2018-08-17 03:20:11 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-08-17 03:20:11 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x3409f70 at position 1. The row has probably been removed
+ERROR 2018-08-17 03:20:11 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x3409f70 holds a NULL value in row 1
+ERROR 2018-08-17 03:20:12 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-08-17 03:20:12 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x3409f70 at position 10. The row has probably been removed
+ERROR 2018-08-17 03:20:12 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x3409f70 holds a NULL value in row 10
+WARN  2018-08-17 03:20:50 unityct(io) <unknown>:0 Desktop file '/usr/share/applications/google-chrome.desktop' is using a deprecated format for its actions that will be dropped soon.
+WARN  2018-08-17 03:21:09 unityct(io) <unknown>:0 Desktop file '/usr/share/applications/google-chrome.desktop' is using a deprecated format for its actions that will be dropped soon.
+[12850:12850:0817/032110:ERROR:url_pattern_set.cc(240)] Invalid url pattern: chrome://print/*
+[6:6:0817/032110:ERROR:nss_util.cc(207)] Error initializing NSS without a persistent database: NSS error code: -8023
+[6:6:0817/032110:FATAL:nss_util.cc(209)] nss_error=-8023, os_error=0
+[8:8:0817/032110:ERROR:nss_util.cc(207)] Error initializing NSS without a persistent database: NSS error code: -8023
+[8:8:0817/032110:FATAL:nss_util.cc(209)] nss_error=-8023, os_error=0
+[13:13:0817/032113:ERROR:nss_util.cc(207)] Error initializing NSS without a persistent database: NSS error code: -8023
+[13:13:0817/032113:FATAL:nss_util.cc(209)] nss_error=-8023, os_error=0
+[15:15:0817/032116:ERROR:nss_util.cc(207)] Error initializing NSS without a persistent database: NSS error code: -8023
+[15:15:0817/032116:FATAL:nss_util.cc(209)] nss_error=-8023, os_error=0
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Created new window in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[14494:14494:0817/032851.721031:ERROR:CONSOLE(1)] "Uncaught ReferenceError: inline is not defined", source: chrome://sync-confirmation/ (1)
+[14494:14515:0817/032851.805878:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14540:14540:0817/032854.639285:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd0017ba800]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/032854.639382:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.646914:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.663580:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.668977:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.685653:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.702323:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.719290:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.735964:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.752624:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.769436:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.785900:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.803138:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.819746:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/032854.836161:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd0017ba800]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14494:14494:0817/032912.746489:ERROR:background_mode_manager_aura.cc(14)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)
+[14494:14494:0817/032912.870661:ERROR:background_mode_manager_aura.cc(19)] Not implemented reached in virtual void BackgroundModeManager::DisplayClientInstalledNotification(const base::string16 &)
+[14494:14956:0817/032922.098964:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for ssl.google-analytics.com failed err=-8172
+[14494:14533:0817/032926.191914:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googleadservices.com failed err=-8172
+[14494:14956:0817/032926.778625:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for pagead2.googlesyndication.com failed err=-8172
+[14494:14956:0817/032926.962227:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for stats.g.doubleclick.net failed err=-8172
+[14494:14515:0817/032949.098142:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/032949.683318:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/032951.480323:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/033004.313715:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/033004.834486:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/033006.694018:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/033515.001709:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/033515.002900:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+WARN  2018-08-17 03:36:35 unity.glib.dbus.proxy GLibDBusProxy.cpp:487 Calling method "SyncOne" on object path: "/com/canonical/Unity/Panel/Service" failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.Unity.Panel.Service.LockScreen was not provided by any .service files
+[14494:14515:0817/033635.982180:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+WARN  2018-08-17 03:40:01 unity.glib.dbus.proxy GLibDBusProxy.cpp:487 Calling method "SyncOne" on object path: "/com/canonical/Unity/Panel/Service" failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.Unity.Panel.Service.LockScreen was not provided by any .service files
+WARN  2018-08-17 03:40:01 unity.glib.dbus.proxy GLibDBusProxy.cpp:487 Calling method "SyncOne" on object path: "/com/canonical/Unity/Panel/Service" failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.Unity.Panel.Service.LockScreen was not provided by any .service files
+WARN  2018-08-17 03:40:02 unity.glib.dbus.proxy GLibDBusProxy.cpp:487 Calling method "SyncOne" on object path: "/com/canonical/Unity/Panel/Service" failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.Unity.Panel.Service.LockScreen was not provided by any .service files
+[14494:14515:0817/034003.032763:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+[14494:14515:0817/034003.535750:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+[14494:14515:0817/034007.863428:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -137
+[14494:14515:0817/034008.813542:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -137
+[14494:14515:0817/034011.962690:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -137
+[14494:14515:0817/034016.125552:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/035314.028188:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/035329.052035:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Created new window in existing browser session.
+[14494:14515:0817/035714.030238:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/035714.032216:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/040005.092328:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/040006.344237:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:17804:0817/040203.277797:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagmanager.com failed err=-8172
+[14494:17804:0817/040204.184712:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagservices.com failed err=-8172
+[14494:17804:0817/040204.454664:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagservices.com failed err=-8172
+[14494:17804:0817/040204.746286:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagservices.com failed err=-8172
+[14494:17804:0817/040205.050263:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagservices.com failed err=-8172
+[14494:17872:0817/040211.750600:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for connect.facebook.net failed err=-8172
+[14494:17872:0817/040212.488625:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagservices.com failed err=-8172
+[14494:17872:0817/040212.773426:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagservices.com failed err=-8172
+[14494:17872:0817/040213.118833:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagservices.com failed err=-8172
+[14494:14515:0817/040255.803749:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+[14494:14515:0817/040605.089291:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/040606.339988:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/040914.026600:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/040914.028655:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/041205.088326:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/041205.097387:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/041514.022849:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/041515.024086:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+WARN  2018-08-17 04:16:18 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2018-08-17 04:16:18 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2018-08-17 04:16:18 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2018-08-17 04:16:25 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2018-08-17 04:16:33 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+WARN  2018-08-17 04:17:32 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2018-08-17 04:17:32 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2018-08-17 04:17:32 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Created new window in existing browser session.
+[14494:18344:0817/041801.994291:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagmanager.com failed err=-8172
+[14494:18344:0817/041803.005107:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for stats.g.doubleclick.net failed err=-8172
+[14494:18344:0817/041803.339748:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for platform.twitter.com failed err=-8172
+[14494:18376:0817/041803.402133:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for connect.facebook.net failed err=-8172
+[14494:18376:0817/041812.582391:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagmanager.com failed err=-8172
+[14494:18376:0817/041814.271109:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagmanager.com failed err=-8172
+[14494:18392:0817/041814.544630:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for platform.twitter.com failed err=-8172
+[14494:18376:0817/041833.922369:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagmanager.com failed err=-8172
+[14494:18376:0817/041834.118034:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for connect.facebook.net failed err=-8172
+[14494:18392:0817/041838.566051:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for js.pusher.com failed err=-8181
+[14494:14515:0817/041914.018984:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/041917.025860:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:18392:0817/041925.294308:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for stats.g.doubleclick.net failed err=-8172
+[14494:17962:0817/041925.496934:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for platform.twitter.com failed err=-8172
+[14494:18392:0817/041925.516504:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for connect.facebook.net failed err=-8172
+[14494:18344:0817/041935.831380:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagmanager.com failed err=-8172
+[14494:18392:0817/041935.983465:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for platform.twitter.com failed err=-8172
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[14494:18359:0817/041952.936380:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for connect.facebook.net failed err=-8172
+[14494:17963:0817/042127.851305:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googleadservices.com failed err=-8172
+[14494:18359:0817/042129.188212:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for ssl.google-analytics.com failed err=-8172
+[14494:17963:0817/042132.003280:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for www.googletagmanager.com failed err=-8172
+[14494:18376:0817/042133.812475:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for platform.twitter.com failed err=-8172
+[14494:18359:0817/042133.949201:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for ssl.google-analytics.com failed err=-8172
+[14494:17963:0817/042138.707767:ERROR:cert_verify_proc_nss.cc(981)] CERT_PKIXVerifyCert for ssl.google-analytics.com failed err=-8172
+[14494:14515:0817/042314.023410:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/042315.272029:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/042554.758996:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+[14494:14515:0817/042556.760648:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -137
+[14494:14515:0817/042640.756370:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -137
+[14494:14515:0817/042821.415354:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -137
+[14494:14515:0817/043105.004011:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -137
+[14494:14515:0817/044220.055759:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+[14494:14515:0817/044229.861486:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -137
+[14494:14515:0817/044254.273692:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/044254.275864:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/044254.275978:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -101
+[14494:14515:0817/044309.459262:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/044310.734503:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14515:0817/044325.925766:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14494:14494:0817/044325.926032:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Child 19157, MediaPlayback #3] WARNING: Decoder=7f650ef6dd40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19157, MediaPlayback #4] WARNING: Decoder=7f650ef6dd40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19157, MediaPlayback #2] WARNING: Decoder=7f650ef6dd40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19157, MediaPlayback #4] WARNING: Decoder=7f650ef6dd40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19157, MediaPlayback #1] WARNING: Decoder=7f650ef6dd40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+[14494:14515:0817/045254.277339:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/050513.689292:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/050520.715329:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 2515, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[14494:14515:0817/050804.760930:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/050806.012163:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[Child 2575, MediaPlayback #16] WARNING: Decoder=7f578f08c3e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #16] WARNING: Decoder=7f578f08c3e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[14494:14515:0817/051113.687621:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/051113.938833:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/051513.686346:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/051513.937289:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/051913.681995:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/051913.933522:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/052204.751472:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/052204.752784:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[Child 2575, MediaPlayback #2] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #1] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #2] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #2] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f577eca76a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[14494:14515:0817/052604.749596:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/052612.016084:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/053004.751208:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/053006.008217:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/053404.748744:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/053405.000418:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/053713.676266:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/053713.927975:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/054004.747712:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/054005.996995:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Child 2575, MediaPlayback #1] WARNING: Decoder=7f578ee282e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f578ee282e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f578ee282e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #3] WARNING: Decoder=7f578ee282e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14540:14540:0817/054353.989906:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd002b22a00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/054354.000548:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd002b22a00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/054354.000786:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd002b22a00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/054354.001033:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd002b22a00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14494:14515:0817/054404.746794:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/054405.996092:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/054713.676323:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/054714.676034:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/055113.673144:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/055113.923979:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/055513.672672:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/055514.673514:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/055804.738886:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/055804.990782:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/060204.736888:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/060205.736296:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/060604.737913:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/060604.739112:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14540:14540:0817/060734.897825:ERROR:gl_surface_presentation_helper.cc(115)] GetVSyncParametersIfAvailable() failed!
+[14540:14540:0817/060735.022753:ERROR:gl_surface_presentation_helper.cc(115)] GetVSyncParametersIfAvailable() failed!
+[14494:14515:0817/061004.741255:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/061004.742542:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/061404.738915:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/061404.740940:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/061713.669396:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/061720.680027:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/062113.666723:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/062116.680479:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/062513.663995:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/062516.916837:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f57930a47a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #1] WARNING: Decoder=7f57930a47a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #4] WARNING: Decoder=7f57930a47a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 2575, MediaPlayback #3] WARNING: Decoder=7f57930a47a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[14494:14515:0817/062913.663017:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/062914.673434:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/063313.664315:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/063314.945642:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/063713.660559:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/063713.912275:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[1:16:0817/063740.062435:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1:17:0817/063740.371551:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1:17:0817/063939.622748:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1:16:0817/063941.534899:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[14494:14515:0817/064004.731386:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[1:16:0817/064010.300808:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[14494:14515:0817/064313.659916:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[1:17:0817/064513.712397:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1:16:0817/064522.647819:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[14494:14515:0817/064604.725181:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14540:14540:0817/064646.988508:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050060:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050132:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050156:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 2 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050227:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050255:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050283:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050303:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 2 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050374:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050398:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050427:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050445:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 2 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050505:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050534:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050566:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050589:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050620:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050645:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[14540:14540:0817/064647.050673:ERROR:gles2_cmd_decoder.cc(18008)] [.DisplayCompositor-0x2cd00197bc00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[14540:14540:0817/064647.050695:ERROR:gles2_cmd_decoder.cc(10115)] [.DisplayCompositor-0x2cd00197bc00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1:17:0817/064731.298596:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1:17:0817/064925.734258:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[14494:14515:0817/065004.729851:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/065313.655134:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[1:17:0817/065401.299535:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[14494:14515:0817/065713.652945:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/070004.723981:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/070404.720193:ERROR:socket_stream.cc(210)] Closing stream with result -100
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Child 19520, MediaPlayback #3] WARNING: Decoder=7f3c5a0fc100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 2515, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[14494:14515:0817/070804.719358:ERROR:socket_stream.cc(210)] Closing stream with result -100
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[14494:14515:0817/071204.716687:ERROR:socket_stream.cc(210)] Closing stream with result -100
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+[14494:14515:0817/071604.721453:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/071913.652169:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #4] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #1] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #1] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #4] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #4] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #1] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #3] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #1] WARNING: Decoder=7f3c5f6584c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Child 19520, MediaPlayback #3] WARNING: Decoder=7f3c5e5693e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #3] WARNING: Decoder=7f3c5e5693e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #3] WARNING: Decoder=7f3c5e5693e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #1] WARNING: Decoder=7f3c5e5693e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #4] WARNING: Decoder=7f3c5e5693e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #3] WARNING: Decoder=7f3c5e5693e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #4] WARNING: Decoder=7f3c5e5693e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[14494:14515:0817/072313.646547:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/072604.714929:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c4b1646a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c4b1646a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #1] WARNING: Decoder=7f3c4b1646a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #3] WARNING: Decoder=7f3c4b1646a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #4] WARNING: Decoder=7f3c4b1646a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Child 19520, MediaPlayback #1] WARNING: Decoder=7f3c4cec45c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c4cec45c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c4cec45c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c4cec45c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[14494:14515:0817/073004.713333:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/073313.642839:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[Child 19520, MediaPlayback #4] WARNING: Decoder=7f3c504316a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #3] WARNING: Decoder=7f3c504316a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c504316a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[Child 19520, MediaPlayback #2] WARNING: Decoder=7f3c504316a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mWstsA/firefox-61.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3411
+[14494:14515:0817/073604.711480:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/073605.960202:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/074004.717603:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/074004.734503:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/074313.644443:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/074314.644043:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/074604.709703:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/074604.710936:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/075004.710778:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/075036.032213:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/075404.711405:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/075419.745267:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/075713.634792:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/075714.632273:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/080113.633305:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/080114.632144:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/080404.703327:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/080404.704735:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/080713.635441:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/080720.648380:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/081113.636930:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/081114.636101:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/081513.636051:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/081513.650221:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/081804.701418:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/081811.970334:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/082204.700042:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/082204.707002:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/082513.627889:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/082514.630018:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/082913.630327:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/082914.632177:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/083313.626176:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/083313.878326:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109
+[14494:14515:0817/083604.696020:ERROR:socket_stream.cc(210)] Closing stream with result -100
+[14494:14515:0817/083708.096093:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -109

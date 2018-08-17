@@ -1,0 +1,151 @@
+{
+   "checksum": "32f44d1b5dbd7bfea5f05704a77b1b7b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13160989891842454",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13171283416548600"
+            },
+            "name": "RECRUITMENT OF JUNIOR ASSOCIATES (CUSTOMER SUPPORT & SALES) AND JUNIOR AGRICULTURAL ASSOCIATES IN CLERICAL CADRE IN STATE BANK OF INDIA",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://ibps.sifyitest.com/sbijacmar16/"
+         }, {
+            "date_added": "13162662260885440",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13178667455661697"
+            },
+            "name": "CPT Preparation Material | CPT Preparation Online | Online CPT Prep -HitBullsEye",
+            "sync_transaction_version": "8",
+            "type": "url",
+            "url": "https://cpt.hitbullseye.com/bull-essential-placement.php#"
+         }, {
+            "date_added": "13166027713622395",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13169920242970973"
+            },
+            "name": "Online Smart Village Monitoring System | 1000 Projects",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "http://1000projects.org/online-smart-village-monitoring-system.html"
+         }, {
+            "date_added": "13173902539179949",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13178389214864507"
+            },
+            "name": "Youtube Multi Downloader Online Free",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://youtubemultidownloader.com/"
+         }, {
+            "date_added": "13176570604591223",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13178859901197111"
+            },
+            "name": "Placements - GeeksforGeeks",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/placements-gq/"
+         }, {
+            "date_added": "13177097487941502",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13177097487941951"
+            },
+            "name": "NPTEL :: 110108056",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://nptel.ac.in/courses/nptel_download.php?subjectid=110108056"
+         }, {
+            "date_added": "13177097562838845",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13177698764517657"
+            },
+            "name": "nptel.ac.in/courses/110108056/36",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "http://nptel.ac.in/courses/110108056/36"
+         }, {
+            "date_added": "13177617695326495",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13178107092001058"
+            },
+            "name": "Mock Interview - InterviewBit",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.interviewbit.com/mock-interview/"
+         }, {
+            "date_added": "13177698501146801",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13178842699666011"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.x1337x.ws/search/avengers+infinity+war/2/"
+         }, {
+            "date_added": "13177801028576796",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13177801028583898"
+            },
+            "name": "Dynamic Programming - GeeksforGeeks",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/dynamic-programming/"
+         }, {
+            "date_added": "13177960493361677",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13177960493368831"
+            },
+            "name": "My Submissions - Amazon Developer Hiring Challenge | HackerEarth",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.hackerearth.com/challenge/hiring/amazon-hiring-challenge/submissions/"
+         }, {
+            "date_added": "13178112250204655",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13178112250205088"
+            },
+            "name": "Contest | Sudo Placement [1.5]",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://practice.geeksforgeeks.org/contest/sudo-placement-15/"
+         } ],
+         "date_added": "13178930169529188",
+         "date_modified": "13178112250204655",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13178930169529197",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "14",
+      "synced": {
+         "children": [  ],
+         "date_added": "13178930169529204",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

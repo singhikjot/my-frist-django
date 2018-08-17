@@ -1,0 +1,36 @@
+{
+   "description": "A serene theme with elements of joy radiating from light touches of color emanating out the profusely stunning image.",
+   "icons": {
+      "128": "images/128.png",
+      "16": "images/16.png",
+      "48": "images/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7yYTKjLuxPnSqmp2+wgBNZ5e2N/7kHmCNGIGEOOytiqQsDa3G+ZC/ynKprRnu0qio4RMvUvqc0YIKfhbCwom5Aq7N56wwwio67xfA4P6iEoUvfq5dB7ndviMAMvKqcR9iJdtpO7se11AYzlUxa3JVNCFq/5K1ZvmPWJy2/ss9WQIDAQAB",
+   "manifest_version": 2,
+   "name": "Lone Tree",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 55, 100, 119 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_link": [ 255, 255, 255 ],
+         "ntp_link_underline": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 39, 71, 85, 0.6 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center bottom",
+         "ntp_background_repeat": "no-repeat"
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

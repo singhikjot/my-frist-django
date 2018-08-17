@@ -1,0 +1,4 @@
+(bluetooth-wizard:18725): Gtk-DEBUG: Connecting to session manager
+(bluetooth-wizard:18725): Bluetooth-DEBUG: New Adapter interface added.
+(bluetooth-wizard:18725): Bluetooth-DEBUG: New Device interface added.
+(bluetooth-wizard:18725): Bluetooth-DEBUG: Connect succeeded for /org/bluez/hci0/dev_00_58_56_64_E3_CA

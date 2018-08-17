@@ -1,0 +1,10 @@
+Fri Aug 17 03:21:04 IST 2018 crash report /var/crash/_usr_bin_unity-scope-loader.1000.crash detected
+Traceback (most recent call last):
+  File "/usr/share/apport/apport-gtk", line 597, in <module>
+    app.run_argv()
+  File "/usr/lib/python3/dist-packages/apport/ui.py", line 688, in run_argv
+    return self.run_crashes()
+  File "/usr/lib/python3/dist-packages/apport/ui.py", line 239, in run_crashes
+    logind_session[1] > self.report.get_timestamp():
+TypeError: unorderable types: float() > NoneType()
+Fri Aug 17 06:29:48 IST 2018 crash report /var/crash/_usr_bin_unity-scope-loader.1000.crash detected

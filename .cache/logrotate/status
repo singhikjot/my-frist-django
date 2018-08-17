@@ -1,0 +1,14 @@
+logrotate state -- version 2
+"/home/ikjot/.cache/upstart/gpg-agent.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/hud.log" 2018-8-17-2:0:0
+"/home/ikjot/.cache/upstart/dbus.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/unity-settings-daemon.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/indicator-sound.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/gnome-keyring-ssh.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/unity-panel-service.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/unity7.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/upstart-event-bridge.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/gnome-keyring.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/ssh-agent.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/window-stack-bridge.log" 2018-8-17-2:42:3
+"/home/ikjot/.cache/upstart/update-notifier-release.log" 2018-8-17-2:0:0
